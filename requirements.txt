@@ -1,7 +1,2 @@
-
 streamlit
 streamlit-option-menu
-pickle
-numpy
-pandas
-scikit-learn
